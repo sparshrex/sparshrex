@@ -6,19 +6,19 @@
 <img align="right" alt="coding" width="400" src="https://developer.android.com/static/studio/preview/features/images/live-edit-only-device.gif">
 
 <!-- change it-->
-- 🌱 I’m currently learning **Firebase,Restful API,Volley Library,Android JetPack,Kotlin in Android development**
+- 🌱 I’m currently learning **Backend,Firebase,Express Js,Restful API, MongoDb in Web development**
 
-- 💬 Ask me about **Android,Firebase,XML,Kotlin,Glide library,Exo-player**
+- 💬 Ask me about **Data Structure And Algorithms in Programming, VITE,JAVASCRIPT,REACT ,TAILWIND CSS,MATERIAL UI,BOOTSTRAP,HTML,CSS**
 
 <!-- change email-->
-- 📫 How to reach me **trayambsachan2003@gmail.com**
+- 📫 How to reach me **imsparsh094@gmail.com**
 
 <!-- change linkedin, hackerrank, leetcode aur bhi jo ho-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tryamb19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tryamb19" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sparsh-verma-043862205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tryamb19" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sec_f_1073" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sec_f_1073" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tryamb123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tryamb123" height="30" width="40" /></a>
+<a href="https://leetcode.com/imsparsh09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tryamb123" height="30" width="40" /></a>
 </p>
 
 <!-- change it-->
