@@ -8,7 +8,7 @@
 <!-- change it-->
 - 🌱 I’m currently learning **Backend,Firebase,Express Js,Restful API, MongoDb in Web development**
 
-- 💬 Ask me about **Data Structure And Algorithms in Programming, VITE,JAVASCRIPT,REACT ,TAILWIND CSS,MATERIAL UI,BOOTSTRAP,HTML,CSS**
+- 💬 Ask me about **Data Structure And Algorithms in Programming, VITE,JAVASCRIPT,REACT ,REACT NATIVE ,TAILWIND CSS,MATERIAL UI,BOOTSTRAP,HTML,CSS**
 
 <!-- change email-->
 - 📫 How to reach me **imsparsh094@gmail.com**
