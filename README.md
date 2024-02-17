@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm a MERN stack developer with a passion for creating dynamic and user-friendly web applications. 👋
 <h1 align="center">I'm Sparsh Verma</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparshrex&label=Profile%20views&color=0e75b6&style=flat" alt="tryamb" /> </p>
 
@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://developer.android.com/static/studio/preview/features/images/live-edit-only-device.gif">
 
 <!-- change it-->
-- 🌱 I’m currently learning **Backend,Firebase,Express Js,Restful API, MongoDb in Web development**
+- 🌱 I’m currently learning **Firebase,React-Native and Sanity**
 
 - 💬 Ask me about **Data Structure And Algorithms in Programming, VITE,JAVASCRIPT,REACT ,REACT NATIVE ,TAILWIND CSS,MATERIAL UI,BOOTSTRAP,HTML,CSS**
 
