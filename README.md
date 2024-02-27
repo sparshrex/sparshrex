@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://developer.android.com/static/studio/preview/features/images/live-edit-only-device.gif">
 
 <!-- change it-->
-- 🌱 I’m currently learning **Firebase,React-Native and Sanity**
+- 🌱 I’m currently learning **Firebase,React-Native **
 
 - 💬 Ask me about **Data Structure And Algorithms in Programming, VITE,JAVASCRIPT,REACT ,REACT NATIVE ,TAILWIND CSS,MATERIAL UI,BOOTSTRAP,HTML,CSS**
 
