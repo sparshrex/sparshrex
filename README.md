@@ -1,4 +1,4 @@
-### Hi there! I'm a MERN stack developer with a passion for creating dynamic and user-friendly web applications. 👋
+### Hi there! I'm a MERN stack dnd React Native developer with a passion for creating dynamic and user-friendly web applications. 👋
 <h1 align="center">I'm Sparsh Verma</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparshrex&label=Profile%20views&color=0e75b6&style=flat" alt="tryamb" /> </p>
 
