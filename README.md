@@ -8,7 +8,7 @@
 <!-- change it-->
 - 🌱 I’m currently learning **High Level and Low Level Design  **
 
-- 💬 Ask me about **Data Structure And Algorithms in Programming, JAVA, SPRING BOOT ,HIBERNATE, REDIS , MICRO-SERVICES ,KAFKA , SYSTEM DESIGN ,JAVASCRIPT,REACT ,REACT NATIVE ,TAILWIND CSS,MATERIAL UI,BOOTSTRAP,HTML,CSS**
+- 💬 Ask me about **Data Structure And Algorithms in Programming, JAVA, SPRING BOOT ,HIBERNATE, SQL , REDIS , MICRO-SERVICES ,KAFKA , SYSTEM DESIGN ,JAVASCRIPT,REACT ,REACT NATIVE ,TAILWIND CSS,MATERIAL UI,BOOTSTRAP,HTML,CSS**
 
 <!-- change email-->
 - 📫 How to reach me **imsparsh094@gmail.com**
