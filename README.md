@@ -1,4 +1,4 @@
-### Hi there! I'm a MERN stack dnd React Native developer with a passion for creating dynamic and user-friendly web applications. 👋
+### Hi there! I'm an SDE-I @Nucleus Software || Ex-SDE @Drona || React + SpringBoot || Java Full Stack Developer. 👋
 <h1 align="center">I'm Sparsh Verma</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparshrex&label=Profile%20views&color=0e75b6&style=flat" alt="tryamb" /> </p>
 
@@ -6,9 +6,9 @@
 <img align="right" alt="coding" width="400" src="https://developer.android.com/static/studio/preview/features/images/live-edit-only-device.gif">
 
 <!-- change it-->
-- 🌱 I’m currently learning **Firebase,React-Native **
+- 🌱 I’m currently learning **High Level and Low Level Design  **
 
-- 💬 Ask me about **Data Structure And Algorithms in Programming, VITE,JAVASCRIPT,REACT ,REACT NATIVE ,TAILWIND CSS,MATERIAL UI,BOOTSTRAP,HTML,CSS**
+- 💬 Ask me about **Data Structure And Algorithms in Programming, JAVA, SPRING BOOT ,HIBERNATE, REDIS , MICRO-SERVICES ,KAFKA , SYSTEM DESIGN ,JAVASCRIPT,REACT ,REACT NATIVE ,TAILWIND CSS,MATERIAL UI,BOOTSTRAP,HTML,CSS**
 
 <!-- change email-->
 - 📫 How to reach me **imsparsh094@gmail.com**
